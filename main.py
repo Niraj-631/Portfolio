@@ -268,7 +268,7 @@ if section == "🏠 Home":
 
         - **NEB Board (Class XII)**:
             - School: Om National Academy, Birgunj
-            - Duration: 2018-2029
+            - Duration: 2018-2019
             - Percentage: 66%
             
         - **SEE Board (Class X)**:
