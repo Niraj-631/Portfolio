@@ -59,7 +59,7 @@ st.sidebar.markdown(
     </style>
 
     <div class="sidebar-social" style="display: flex; justify-content: center; gap: 20px;">  
-        <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+        <a href="http://www.linkedin.com/in/niraj-kumar-yadav-684084233" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
         </a>
         <a href="https://github.com/Niraj-631" target="_blank">
@@ -367,7 +367,7 @@ elif section == "🎓 Education":
 
         - **NEB Board (Class XII)**:
             - School: Om National Academy, Birgunj
-            - Duration: 2018-2029
+            - Duration: 2018-2019
             - Percentage: 66%
             
         - **SEE Board (Class X)**:
