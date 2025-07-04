@@ -432,7 +432,7 @@ st.markdown(
     </style>
 
     <div class="social-icons" style="display: flex; justify-content: center; gap: 20px;">
-        <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+        <a href="http://www.linkedin.com/in/niraj-kumar-yadav-684084233" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
         </a>
         <a href="https://github.com/Niraj-631" target="_blank">
